@@ -1,0 +1,1 @@
+This project, aims to practice Python through 40 basic exercises that slowly go up in difficulty, after several Python courses, I decided that I should test my self and start from the basics, growing the difficulty of the projects and having a solid and steady growth.
